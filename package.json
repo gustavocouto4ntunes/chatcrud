@@ -1,0 +1,19 @@
+{
+  "name": "chatcrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavocouto4ntunes/chatcrud.git"
+  },
+  "author": "gustavo couto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavocouto4ntunes/chatcrud/issues"
+  },
+  "homepage": "https://github.com/gustavocouto4ntunes/chatcrud#readme"
+}
